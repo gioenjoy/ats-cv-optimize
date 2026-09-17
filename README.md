@@ -162,16 +162,16 @@ i contenuti della conversazione.
 
 ---
 
-## Debiti
+## Riferimenti
 
-L'impostazione a fasi con cancelli di controllo e l'idea della blacklist con warning
-all'utente vengono da due skill inglesi:
+Due skill inglesi hanno ispirato l'impostazione:
+- il flusso a stadi con cancelli di controllo
+([SankaiAI](https://github.com/SankaiAI/ats-optimized-resume-agent-skill))
+- la blacklist che avvisa invece di correggere in silenzio
+([NoahMustafa](https://github.com/NoahMustafa/claude-ats-cv-skill)).
 
-- [SankaiAI/ats-optimized-resume-agent-skill](https://github.com/SankaiAI/ats-optimized-resume-agent-skill) — flusso a stadi, cancelli, renderer deterministico
-- [NoahMustafa/claude-ats-cv-skill](https://github.com/NoahMustafa/claude-ats-cv-skill) — blacklist di filler word e pattern IA, regola del bullet senza metriche
-
-Tutto il contenuto italiano — lessico, norme, titoli di studio, parser, blacklist, banca
-verbi, renderer — è originale.
+Il contenuto italiano — lessico, norme, titoli di studio, parser di mercato,
+blacklist, banca verbi, renderer — è scritto da zero.
 
 ## Licenza
 
