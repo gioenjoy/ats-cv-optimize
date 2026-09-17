@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "profilo": "mid",
+    "pagine": 1,
+    "ruolo_target": "Controller di gestione",
+    "azienda_target": "—"
+  },
+  "ordine_sezioni": ["profilo", "competenze", "esperienze", "formazione", "certificazioni", "lingue"],
+  "intestazione": {
+    "nome": "Giulia",
+    "cognome": "Ferrari",
+    "titolo": "Controller di gestione · Business partner industriale",
+    "citta": "Bergamo (BG)",
+    "telefono": "+39 340 123 4567",
+    "email": "giulia.ferrari@email.it",
+    "linkedin": "linkedin.com/in/giuliaferrari",
+    "github": "",
+    "sito": "",
+    "extra": ""
+  },
+  "profilo": "Controller di gestione con 6 anni di esperienza nel manifatturiero lombardo. Costruisce modelli di budget e forecast su più stabilimenti e porta il reporting direzionale dentro Power BI. Ha ridotto da 12 a 5 giorni la chiusura mensile di un gruppo da 74 milioni di euro di fatturato.",
+  "competenze": [
+    {
+      "categoria": "Strumenti",
+      "voci": ["SAP CO", "SAP FI (base)", "Excel avanzato (Power Query, tabelle pivot, VBA)", "Power BI", "SQL"]
+    },
+    {
+      "categoria": "Aree",
+      "voci": ["Budgeting", "Forecasting", "Analisi degli scostamenti", "Contabilità analitica", "Costo standard di prodotto", "Reporting direzionale"]
+    },
+    {
+      "categoria": "Settori",
+      "voci": ["Manifatturiero", "Materie plastiche", "Automotive di primo impianto"]
+    }
+  ],
+  "esperienze": [
+    {
+      "ruolo": "Controller di gestione",
+      "azienda": "Poliplast S.p.A.",
+      "citta": "Bergamo",
+      "dal": "gen 2021",
+      "al": "oggi",
+      "contesto": "Gruppo manifatturiero, 4 stabilimenti, 320 dipendenti, 74 mln di fatturato",
+      "punti": [
+        "Ridotto da 12 a 5 giorni lavorativi la chiusura del reporting mensile, sostituendo 9 file Excel scollegati con un modello unico in Power BI alimentato da SAP CO.",
+        "Costruito il budget consolidato dei 4 stabilimenti e il forecast rolling trimestrale, con scostamento medio sul consuntivo sceso dal 9% al 3,5% in due esercizi.",
+        "Introdotto il calcolo del costo standard su 640 codici prodotto, portando alla luce 11 articoli venduti sottocosto e a una revisione del listino applicata da marzo 2023.",
+        "Affiancato i responsabili di stabilimento nella lettura mensile dei margini di commessa, con un incontro fisso da 45 minuti per sito."
+      ]
+    },
+    {
+      "ruolo": "Analista di controllo di gestione",
+      "azienda": "Meccanica Seriana S.r.l.",
+      "citta": "Albino (BG)",
+      "dal": "set 2018",
+      "al": "dic 2020",
+      "contesto": "PMI metalmeccanica, 85 dipendenti, 19 mln di fatturato",
+      "punti": [
+        "Impostato da zero la contabilità analitica per centri di costo, prima assente, coprendo 7 reparti produttivi.",
+        "Automatizzato con Power Query la riconciliazione tra ordini di produzione e consuntivi di reparto, da 2 giorni a 3 ore al mese.",
+        "Predisposto la reportistica per gli istituti di credito nell'ambito di una richiesta di finanziamento da 1,2 milioni di euro, poi deliberata."
+      ]
+    }
+  ],
+  "formazione": [
+    {
+      "titolo": "Laurea Magistrale in Economia Aziendale, Direzione e Consulenza (LM-77)",
+      "istituto": "Università degli Studi di Bergamo",
+      "citta": "Bergamo",
+      "dal": "set 2015",
+      "al": "lug 2017",
+      "votazione": "108/110",
+      "note": ["Tesi: il controllo di gestione nelle PMI manifatturiere lombarde"]
+    },
+    {
+      "titolo": "Laurea Triennale in Economia Aziendale (L-18)",
+      "istituto": "Università degli Studi di Bergamo",
+      "citta": "Bergamo",
+      "dal": "set 2012",
+      "al": "lug 2015",
+      "votazione": "",
+      "note": []
+    }
+  ],
+  "certificazioni": [
+    {
+      "nome": "Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
+      "ente": "Microsoft",
+      "data": "mar 2024",
+      "scadenza": "mar 2026",
+      "codice": ""
+    }
+  ],
+  "lingue": [
+    { "lingua": "Italiano", "livello": "madrelingua", "certificazione": "" },
+    { "lingua": "Inglese", "livello": "C1 (QCER)", "certificazione": "IELTS Academic 7.5 (2023)" },
+    { "lingua": "Tedesco", "livello": "B1 (QCER)", "certificazione": "" }
+  ],
+  "progetti": [],
+  "altro": [],
+  "privacy": "Autorizzo il trattamento dei miei dati personali contenuti nel presente curriculum vitae ai sensi del Regolamento (UE) 2016/679 (GDPR) e del D.lgs. 196/2003 come modificato dal D.lgs. 101/2018."
+}
