@@ -1,0 +1,14 @@
+{
+  "name": "ats-cv-optimize",
+  "version": "1.0.0",
+  "description": "Scrive e ottimizza curriculum in italiano per superare gli ATS: blacklist delle frasi fatte del CV italiano, pattern di scrittura IA, titoli di studio dell'ordinamento italiano, formula privacy GDPR e renderer DOCX ATS-safe.",
+  "author": {
+    "name": "Giovanni Rasulo",
+    "url": "https://github.com/gioenjoy"
+  },
+  "repository": "https://github.com/gioenjoy/ats-cv-optimize",
+  "homepage": "https://github.com/gioenjoy/ats-cv-optimize#readme",
+  "license": "MIT",
+  "keywords": ["cv", "curriculum", "ats", "italiano", "italia", "docx", "lavoro", "gdpr", "europass"],
+  "skills": "./skills/"
+}

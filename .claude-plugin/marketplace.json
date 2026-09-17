@@ -1,0 +1,25 @@
+{
+  "name": "ats-cv-optimize-marketplace",
+  "owner": {
+    "name": "Giovanni Rasulo",
+    "url": "https://github.com/gioenjoy"
+  },
+  "metadata": {
+    "description": "Skill in lingua italiana per la scrittura di CV ottimizzati per gli ATS",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ats-cv-optimize",
+      "description": "Scrive e ottimizza curriculum in italiano per superare gli ATS, con renderer DOCX ATS-safe.",
+      "version": "1.0.0",
+      "source": { "source": "github", "repo": "gioenjoy/ats-cv-optimize", "ref": "main" },
+      "author": { "name": "Giovanni Rasulo" },
+      "homepage": "https://github.com/gioenjoy/ats-cv-optimize#readme",
+      "repository": "https://github.com/gioenjoy/ats-cv-optimize",
+      "license": "MIT",
+      "keywords": ["cv", "curriculum", "ats", "italiano", "docx"],
+      "category": "productivity"
+    }
+  ]
+}
