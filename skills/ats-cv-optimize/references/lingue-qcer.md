@@ -15,7 +15,7 @@ Spagnolo — B1 (QCER)
 ```
 
 ✅ `Inglese — B2 (QCER)`
-❌ `Inglese: buono` · `Inglese: ottimo` · barre grafiche · stelline
+❌ `Inglese: buono` · `Inglese: ottimo` · `Inglese ▓▓▓▓░` · `Inglese ★★★★☆`
 
 Le **barre e le stelline** sono un doppio problema: l'ATS non le legge (la riga arriva come
 «Inglese» e basta) e i selezionatori le associano ai CV junior o ai template grafici.

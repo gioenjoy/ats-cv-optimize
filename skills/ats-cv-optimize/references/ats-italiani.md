@@ -34,7 +34,7 @@ rischio senza contropartita.
   (header) o nel piè di pagina, diversi parser non li estraggono e la candidatura arriva
   senza recapiti.
 - **Nessuna immagine, icona, logo, QR code, barra di competenza, grafico.**
-- **Nessun carattere decorativo** come separatore: usa `–` o `|`, non simboli ornamentali.
+- **Nessun carattere decorativo** come separatore: usa `–` o `|`, non `◆ ✦ ➤ ●`.
 
 ### Caratteri e dimensioni
 - Font: **Calibri, Arial, Helvetica, Garamond, Georgia, Times New Roman.**
